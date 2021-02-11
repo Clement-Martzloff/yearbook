@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "firstName": "Britney",
+      "lastName": "Spears",
+      "quote": "Biceps are importanter than education.",
+      "id": 2
+    },
+    {
+      "firstName": "Maxwell",
+      "lastName": "Avina",
+      "quote": "One time I ate a bagel.",
+      "id": 3
+    },
+    {
+      "firstName": "Joanna",
+      "lastName": "Mc Guiness",
+      "quote": "I cheated all my exams.",
+      "id": 4
+    },
+    {
+      "firstName": "Joey",
+      "lastName": "Fallon",
+      "quote": "Try to be a rainbow in someone's cloud.",
+      "id": 5
+    },
+    {
+      "firstName": "Nick",
+      "lastName": "Jenkins",
+      "quote": "Rose are red, violets are blue, I'm black.",
+      "id": 6
+    },
+    {
+      "firstName": "Garett",
+      "lastName": "Syke",
+      "quote": "I get butterflies when I think of myself.",
+      "id": 7
+    },
+    {
+      "firstName": "Christofer",
+      "lastName": "Gaylord",
+      "quote": "Yes, that is may actual last name.",
+      "id": 8
+    }
+  ]
+}
